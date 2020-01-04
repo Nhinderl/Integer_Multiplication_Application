@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">testingApplication</string>
+    <string name="multiply">Multiply</string>
+    <string name="result">Result</string>
+    <string name="enter_a_number">Enter a Number</string>
+</resources>
